@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "africastalking": "^0.6.7",
+    "firebase-functions": "^4.9.0"
+  },
+  "name": "sendsms",
+  "version": "1.0.0",
+  "description": "cloud function to send sms using africastalking",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mboyaberry",
+  "license": "ISC"
+}
